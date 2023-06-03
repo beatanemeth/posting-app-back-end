@@ -80,6 +80,13 @@
 - **backend** (Node.js server) runs on **localhost:8000**
 - **database server** (MongoDB) runs on **localhost:27017**
 
+### How to test:
+
+- open Terminal or Command Prompt
+- change to working directory (where the file is located)  
+  `$ cd /path/to/directory`  
+  `$ npm run test`
+
 ### Insert initial data into DB:
 
 - open Terminal or Command Prompt

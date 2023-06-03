@@ -19,3 +19,6 @@ jobs:
 
       - name: Add dependencies to the source code
         run: npm install
+
+      - name: Run "test" command
+        run: npm run test
